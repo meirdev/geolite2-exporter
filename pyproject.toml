@@ -1,0 +1,10 @@
+[project]
+name = "geolite2-exporter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "polars>=1.21.0",
+    "pycountry>=24.6.1",
+]
